@@ -21,4 +21,7 @@ Simple Chrome Extension that allows user to save urls/tabs to revist later.
 - JSON Objects
 - JSON functions parse/stringify
 - manifest.json for chrome extensions/configuring permissions.
-## Live View
+## How To Use
+1.) Download and Extract all Files
+2.) Enable Developer Tools in Chrome
+3.) Load unpacked and select the extracted folder.
