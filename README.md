@@ -1,4 +1,4 @@
-# Password-Generator
+# Chrome-Lead-Tracker-Extension
 Simple Chrome Extension that allows user to save urls/tabs to revist later.
 ## Features
 - copy-on-click
